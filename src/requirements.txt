@@ -1,0 +1,13 @@
+--find-links https://download.pytorch.org/whl/cpu
+torch
+transformers>=4.35.0
+protobuf
+accelerate
+PyQt6
+tiktoken
+einops
+transformers_stream_generator
+scipy
+sentencepiece
+optimum
+auto-gptq
